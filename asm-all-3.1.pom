@@ -1,0 +1,15 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.objectweb.asm</groupId>
+    <artifactId>asm-parent</artifactId>
+    <version>3.1</version>
+  </parent>
+
+  <name>ASM All</name>
+  <groupId>org.objectweb.asm</groupId>
+  <artifactId>asm-all</artifactId>
+  <packaging>jar</packaging>
+  
+</project>
